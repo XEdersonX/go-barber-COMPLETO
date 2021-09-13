@@ -10,7 +10,7 @@
   - [Node JS LTS](https://nodejs.org/en/download/)
   - [Docker Desktop](https://www.docker.com/get-started)
 
-![alt text](http://url/to/img.pnghttps://github.com/XEdersonX/go-barber-COMPLETO/issues/1#issue-995434818)
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f656c6961736763662f696d6167652f75706c6f61642f76313538383831313231332f476f4261726265722f4b6170747572655f323032302d30352d30365f61745f32312e32352e32365f74696a6e6c352e676966](https://user-images.githubusercontent.com/9820600/133170753-b6f83a50-e8c7-4bfa-a6e8-e7aa5b0e0c42.gif)
 
 ### Before following the next steps, clone this repository:
 
